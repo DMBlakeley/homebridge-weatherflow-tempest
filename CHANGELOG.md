@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. This project uses [Semantic Versioning](https://semver.org/).
 
+## v4.1.2
+* Add option for node "^22.10.0" in `package.json` and `package-lock.json`.
+
 ## v4.1.1
 * Update README.md to correctly display "Tempest" logo.
 * Update README.md to include `station_id` in "Local API Config Example".
